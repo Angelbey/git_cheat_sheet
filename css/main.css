@@ -1,1 +1,40 @@
 /* TODO: insert styles here */
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: #262626;
+  text-align: center;
+  magin-top: 20px;
+  margin-bottom: 60px;
+}
+h2{
+  font-family: 'Roboto condensed', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+.lvc h2 {
+  background-color: #4757FF;
+}
+.r h2{
+  background-color: #FB4E32;
+}
+h3{
+  font-family: 'Roboto Mono', monospace;
+}
+.blueh3 h3{
+  color: #4757FF;
+}
+.redh3 h3{
+  color: #fb4e32;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  color: #6e6e6e;
+  font-weight: light;
+}
+.local {
+  float: left;
+}
+.remote {
+  float: right;
+}
