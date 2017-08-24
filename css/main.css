@@ -1,5 +1,8 @@
 /* TODO: insert styles here */
-
+.main {
+  margin-left: 200px;
+  margin-right: 200px;
+}
 h1 {
   font-family: 'Lato', sans-serif;
   color: #262626;
@@ -14,27 +17,53 @@ h2{
 }
 .lvc h2 {
   background-color: #4757FF;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0;
 }
 .r h2{
   background-color: #FB4E32;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0;
 }
 h3{
   font-family: 'Roboto Mono', monospace;
 }
 .blueh3 h3{
   color: #4757FF;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .redh3 h3{
   color: #fb4e32;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 p{
   font-family: 'Roboto', sans-serif;
   color: #6e6e6e;
   font-weight: light;
+  padding-left: 5px;
+  padding-right: 5px;
+
 }
 .local {
   float: left;
+  border-style: solid;
+  border-color: #4757FF;
+  width: 440px;
+
 }
 .remote {
   float: right;
+  border-style: solid;
+  border-color: #FB4E32;
+  width: 440px;
+}
+.horz {
+  border-style: solid;
+  border-color: #4757FF;
+  border-width: 3px 0 0 0;
+
 }
