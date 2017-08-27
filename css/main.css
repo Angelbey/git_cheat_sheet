@@ -1,7 +1,7 @@
 /* TODO: insert styles here */
 .main {
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 h1 {
   font-family: 'Lato', sans-serif;
@@ -49,17 +49,18 @@ p{
 
 }
 .local {
-  float: left;
+  float: center;
   border-style: solid;
   border-color: #4757FF;
-  width: 440px;
+  width: 44%;
+  margin-bottom: 5%
 
 }
 .remote {
-  float: right;
+  float: center;
   border-style: solid;
   border-color: #FB4E32;
-  width: 440px;
+  width: 44%;
 }
 .horzlocal {
   border-style: solid;
