@@ -61,9 +61,13 @@ p{
   border-color: #FB4E32;
   width: 440px;
 }
-.horz {
+.horzlocal {
   border-style: solid;
   border-color: #4757FF;
   border-width: 3px 0 0 0;
-
+}
+.horzremote {
+  border-style: solid;
+  border-color: #FB4E32;
+  border-width: 3px 0 0 0;
 }
